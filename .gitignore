@@ -1,0 +1,6 @@
+serviceAccountKey.json
+*firebase-adminsdk*.json
+data/patients/
+data/mitbih/
+.venv/
+__pycache__/
